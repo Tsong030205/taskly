@@ -1,10 +1,5 @@
 # 📝 Taskly - Application de Gestion de Tâches
 
-![PHP](https://img.shields.io/badge/PHP-8.0+-blue)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-orange)
-![CSS3](https://img.shields.io/badge/CSS3-modern-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
-
 ## 🎯 Description
 
 Taskly est une application web moderne de gestion de tâches personnelles développée avec PHP, MySQL, HTML, CSS et JavaScript. L'application suit l'architecture MVC et propose une interface utilisateur responsive et intuitive.
@@ -40,5 +35,5 @@ Taskly est une application web moderne de gestion de tâches personnelles dével
 
 1. **Cloner le projet**
    ```bash
-   git clone https://github.com//taskly.git
+   git clone https://github.com/Tsong030205/taskly.git
    cd taskly
