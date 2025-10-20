@@ -30,6 +30,7 @@ Taskly est une application web moderne de gestion de tâches personnelles dével
 - PHP 8.0+
 - MySQL 8.0+
 - Navigateur web moderne
+- Exécuter les scripts sql dans le fichier database/setup.sql pour créer la base donnée avec les tables correspondants
 
 ### Étapes d'installation
 
